@@ -1,1 +1,3 @@
-# andrezao3079
+## Ola sou o André Aguiar
+
+👨‍💻 Estudando linguagem de programação
